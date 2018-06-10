@@ -1,0 +1,296 @@
+/* App Global Styles */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 21px;
+  color: #666;
+  vertical-align: baseline;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: Arial,Helvetica,sans-serif;
+  color: #000;
+  line-height: 1em;
+  font-weight: 500;
+}
+h2 {
+  font-size: 24px;
+  line-height: 27px;
+  margin-bottom: 6px;
+}
+a {
+  color: #6288a5;
+}
+a:hover {
+  text-decoration:none;
+}
+.footer {
+  font-size: 11px;
+}
+.footer p {
+  color: #999999;
+  padding-top: 20px
+}
+.footer ul li { 
+  margin-right: 1em;
+  display: inline-block;
+}
+.footer ul {
+  list-style: none;
+  padding: 0;
+}
+img#nytimesLogo {
+  margin: 0;
+  width: 154px;
+  height: 26px;
+}
+.textCenter {
+  text-align: center;
+}
+.innerBox {
+  max-width: 525px;
+  margin: 0 auto;
+}
+.border-bottom {
+  box-sizing: border-box;
+  border-bottom: 1px solid #cecece;
+  min-height: 51px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  padding: 11px 0 8px 15px;
+}
+.border-top {
+  box-sizing: border-box;
+  border-top: 1px solid #cecece;
+  min-height: 51px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  padding: 11px 0 8px 15px;
+
+}
+
+.smedia-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: 1.25em;
+}
+.smedia {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: .8125em;
+  font-weight: 300;
+  color: #fff;
+  width: 50%;
+  height: 3.4em;
+  border-radius: .2em;
+  border-width: 2px;
+  border-style: solid;
+  text-align: left;
+  overflow: hidden;
+  cursor: pointer;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  position: relative;
+}
+.smedia:first-of-type {
+  margin-right: 8px;
+}
+.smedia:last-of-type {
+  margin-left: 8px;
+}
+.smedia span.facebook-icon {
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%22110%22%20height%3D%…%22%20fill%3D%22%233C5A99%22%20fill-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E");
+  background-repeat: no-repeat;
+  position: absolute;
+  display: block;
+  top: 0;
+  right: 0;
+  height: 3.2em;
+  width: 3.2em;
+  border-radius: .1em;
+  background-color: #fff;
+  background-position: 50%;
+}
+.smedia.facebook-blue {
+  background-color: #3c5a99;
+  border-color: #3c5a99;
+}
+.smedia.facebook-blue:hover {
+  color: #fff;
+  background-color: #526bc8;
+  border-color: #526bc8;
+}
+.smedia span.google-icon {
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%22180%22%20height%3D%…853%22%2F%3E%3Cpath%20d%3D%22M0%200h18v18H0%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+  background-repeat: no-repeat;
+  position: absolute;
+  display: block;
+  top: 0;
+  right: 0;
+  height: 3.2em;
+  width: 3.2em;
+  border-radius: .1em;
+  background-color: #fff;
+  background-position: 50%;
+}
+.smedia.google-blue {
+  background-color: #4285f4;
+  border-color: #4285f4;
+}
+.smedia.google-blue:hover {
+  color: #fff;
+  background-color: #3367d6;
+  border-color: #3367d6;
+}
+.wordSplit {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 1.5em 0 1.75em;
+  font-size: .8125em;
+  font-weight: 700;
+}
+.wordSplit::before, .wordSplit::after {
+  display: inline-block;
+    content: "";
+    background-color: #ccc;
+    width: 50%;
+    height: 1px;
+}
+.wordSplit::before {
+  margin-right: .5em;
+}
+.wordSplit::after {
+  margin-left: .5em;
+}
+
+.form-control {
+  width: 100%;
+  height: 2.75em;
+  padding: 0 .5em;
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  outline: none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  overflow: hidden;
+  border: 1px solid #e2e2e2;
+  border-radius: .2em;
+  -webkit-box-shadow: inset 2px 3px 3px rgba(0,0,0,.07);
+  box-shadow: inset 2px 3px 3px rgba(0,0,0,.07);
+  -webkit-transition: all .2s linear;
+  transition: all .2s linear;
+  margin: 22px 0 0;
+}
+.loginInput input:nth-of-type(2){
+  margin-top: 28px;
+}
+input[type="checkbox"] {
+  height: 1.2em;
+  width: 1.2em;
+  margin: 0 .5em 0 0;
+}
+.checkbox-container {
+  margin-top: 22px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+}
+.checkbox-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+a.show-password {
+  float: right;
+  margin-top: -2.2em;
+  cursor: pointer;
+  padding-right: .5em;
+  font-size: .8125em;
+  line-height: 1.25em;
+}
+a.forgot-password {
+  font-size: .8125em;
+  line-height: 1.25em;
+}
+label.checkbox-label {
+  font-size: .8125em;
+  line-height: 1.25em;
+  font-weight: 300;
+}
+button.lrg-btn {
+  color: #fff;
+
+}
+button.submit {
+  margin-top: 28px;
+  margin-bottom: 28px;
+  background-color: #6288a5;
+  border-color: #4d7b9f;
+  border: 1px solid;
+  position: relative;
+  padding: 0;
+  width: 100%;
+  height: 2.75em;
+  line-height: calc(2.75em - 2px);
+  font-family: arial,helvetica,sans-serif;
+  font-size: 1em;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: .2em;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  background-image: none;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+button.submit:hover {
+  color: #fff;
+  background-color: #326891;
+  border-color: #265e8b;
+}
