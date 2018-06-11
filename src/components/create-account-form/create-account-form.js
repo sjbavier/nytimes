@@ -9,6 +9,17 @@ import signupRequest from './actions'
 
 class CreateAccountForm extends Component {
 
+    constructor(props) {
+        super(props)
+        this.state = {
+            showPassword: false,
+            passInputType: "password",
+            passToggleText: "Show Password",
+        }
+
+        this.togglePassword = this.togglePassword.bind(this)
+    }
+
     static propTypes = {
         handleSubmit: PropTypes.func,
         signupRequest: PropTypes.func,
@@ -19,6 +30,14 @@ class CreateAccountForm extends Component {
           errors: PropTypes.array,
         }),
       }
+
+    togglePassword = ( e ) => {
+        e.preventDefault()
+        e.stopPropagation()
+
+        if( this.state.showPassword === false ){ this.setState({ showPassword: true, passInputType: "text", passToggleText: "Hide Password" }) }
+        else { this.setState({ showPassword: false, passInputType: "password", passToggleText: "Show Password" }) }
+    }
     // Values will be an object with `username` and `password`
     submit = ( values ) => {
         this.props.signupRequest( values )
@@ -41,7 +60,7 @@ class CreateAccountForm extends Component {
                 <form id="CreateAccountForm" onSubmit={ handleSubmit( this.submit.bind(this) ) }>
                     <div className="loginInput form-group">
                         <Field
-                            name="emailUser"
+                            name="username"
                             type="text"
                             id="emailUser"
                             className="form-control"
@@ -49,20 +68,20 @@ class CreateAccountForm extends Component {
                             component="input"
                         />
                         <Field
-                            name="signupPassword"
-                            type="password"
+                            name="password"
+                            type={ this.state.passInputType }
                             id="signupPassword"
                             className="form-control"
                             placeholder="Create Password"
                             component="input"
                         />
-                        <a className="show-password">Show password</a>
+                        <a className="show-password" onClick={ this.togglePassword }>{ this.state.passToggleText }</a>
                         <div className="checkbox-container">
                                 <div className="checkbox-wrapper">
                                     <Field
-                                        name="rememberMe"
+                                        name="agreement"
                                         type="checkbox"
-                                        id="rememberMe"
+                                        id="agreement"
                                         className=""
                                         component="input"
                                         checked={true}

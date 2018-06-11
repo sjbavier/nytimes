@@ -10,6 +10,8 @@ const initialState = {
    successful: false,
    messages: [],
    errors: [],
+   username: "",
+   password: "",
 }
 
 const reducer = function loginReducer ( state = initialState, action ) {
@@ -21,6 +23,8 @@ const reducer = function loginReducer ( state = initialState, action ) {
             successful: false,
             messages: [ { body: 'Logging in...', time: new Date() } ],
             errors: [],
+            username: "",
+            password: "",
          }
       // Successful Login? reset requesting property to false
       case LOGIN_SUCCESS:
@@ -29,6 +33,8 @@ const reducer = function loginReducer ( state = initialState, action ) {
             messages: [],
             requesting: false,
             successful: true,
+            username: action.username,
+            password: action.password,
          }
       // return error and reset requesting property to false
       case LOGIN_ERROR:
@@ -40,6 +46,8 @@ const reducer = function loginReducer ( state = initialState, action ) {
             messages: [],
             requesting: false,
             successful: false,
+            username: "",
+            password: "",
          }
       case LOGIN_CLEAR:
          return {
@@ -47,6 +55,8 @@ const reducer = function loginReducer ( state = initialState, action ) {
             successful: false,
             messages: [],
             errors: [],
+            username: "",
+            password: "",
          }
       default:
          return state

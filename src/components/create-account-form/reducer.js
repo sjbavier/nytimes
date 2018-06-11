@@ -10,6 +10,8 @@ const initialState = {
    successful: false,
    messages: [],
    errors: [],
+   username: "",
+   password: "",
 }
 
 const reducer = function signupReducer ( state = initialState, action ) {
@@ -22,17 +24,21 @@ const reducer = function signupReducer ( state = initialState, action ) {
             successful: false,
             messages: [{ body: 'Signing up...', time: new Date() }],
             errors: [],
+            username: "",
+            password: "",
          }
 
       case SIGNUP_SUCCESS:
          return {
             errors: [],
             messages: [{
-               body: `Successfully created account for ${action.response.email}`,
+               body: `Successfully created account for ${action.username}`,
                time: new Date(),
             }],
             requesting: false,
             successful: true,
+            username: action.username,
+            password: action.password,
          }
 
       case SIGNUP_ERROR:
@@ -44,6 +50,8 @@ const reducer = function signupReducer ( state = initialState, action ) {
             messages: [],
             requesting: false,
             successful: false,
+            username: "",
+            password: "",
          }
          
       default:

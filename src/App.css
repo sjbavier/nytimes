@@ -216,6 +216,11 @@ input[type="checkbox"] {
   width: 1.2em;
   margin: 0 .5em 0 0;
 }
+input#agreement {
+  height: 2em;
+  width: 2em;
+  margin: 0 .5em 0 0;
+}
 .checkbox-container {
   margin-top: 22px;
   display: -webkit-box;

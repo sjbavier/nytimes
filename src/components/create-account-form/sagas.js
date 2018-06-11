@@ -1,54 +1,43 @@
-import { takeLatest, call, put } from 'redux-saga/effects'
+import { take, fork, cancel, call, put, cancelled } from 'redux-saga/effects'
+
+// use function to redirect routes based on cases
+import history from '../history/history'
+
+// Import API error handler
 import { handleApiErrors } from '../../lib/api-errors'
-import { SIGNUP_REQUESTING, SIGNUP_SUCCESS, SIGNUP_ERROR, } from './constants'
 
-// URL derived from .env file
-const signupUrl = `${process.env.REACT_APP_API_URL}/api/Clients`
+// signup constants
+import {
+   SIGNUP_REQUESTING,
+   SIGNUP_SUCCESS,
+   SIGNUP_ERROR,
+   SIGNUP_CLEAR,
+} from './constants'
 
-function signupApi ( email, password ) {
+import { signupSuccess, signupError } from './actions'
 
-   // "fetch" is a native function made available by create-react-app polyfill
-   return fetch ( signupUrl, {
-      method: 'POST',
-      headers: {
-         'Content-Type': 'application/json',
-      },
-   } )
-      .then( handleApiErrors )
-      .then( response => response.json() )
-      .then( json => json )
-      .catch( (error) => { throw error } )
 
+function* signupFlow ( username, password ) {
+  console.log( username + password)
+
+  yield put( signupSuccess({ username, password }) )
+ 
 }
 
-// This will run when SIGNUP_REQUESTING 'action' is found by watcher
-function* signupFlow ( action ) {
-
-   try {
-
-      const { email, password } = action
-
-      // pulls "calls" to our signupApi with email and password from dispatched 'signup' action
-      // will PAUSE until API async function is complete
-      const response = yield call( signupApi, email, password )
-
-      // when the above API call has completed it will PUT or dispatch and action type: SIGNUP_SUCCESS
-      yield put( {type: SIGNUP_SUCCESS, response} )
-
-   } catch (error) {
-      yield put( {type: SIGNUP_ERROR, error} )
-   }
-   
-}
-
-// Watches for the SIGNUP_REQUESTING action type and will call 
-// signupFlow() with the action we dispatched
 function* signupWatcher () {
+   while( true ) {
 
-   // takeLatest() takes the latest call of the action and runs it
-   // takeEvery() would take all actions and run them concurrently
-   yield takeLatest( SIGNUP_REQUESTING, signupFlow )
-
+      const { username, password } = yield take( SIGNUP_REQUESTING )
+      const signupTask = yield fork( signupFlow, username, password)
+      const action = yield take( SIGNUP_SUCCESS )
+      if( action.type === SIGNUP_SUCCESS) { 
+        history.push('/signup-success') 
+      }
+      else {
+        signupError( {error: "error submitting"} )
+      }
+      yield cancel ( signupTask )
+   }
 }
 
 export default signupWatcher

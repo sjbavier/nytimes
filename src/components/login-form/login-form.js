@@ -9,6 +9,18 @@ import loginRequest from './actions'
 
 class LoginForm extends Component {
 
+    constructor(props) {
+        super(props)
+        this.state = {
+            showPassword: false,
+            passInputType: "password",
+            passToggleText: "Show Password",
+        }
+
+        this.togglePassword = this.togglePassword.bind(this)
+    }
+
+
     static propTypes = {
         handleSubmit: PropTypes.func,
         loginRequest: PropTypes.func,
@@ -19,6 +31,15 @@ class LoginForm extends Component {
           errors: PropTypes.array,
         }),
       }
+
+    
+     togglePassword = ( e ) => {
+        e.preventDefault()
+        e.stopPropagation()
+
+        if( this.state.showPassword === false ){ this.setState({ showPassword: true, passInputType: "text", passToggleText: "Hide Password" }) }
+        else { this.setState({ showPassword: false, passInputType: "password", passToggleText: "Show Password" }) }
+    }
     // Values will be an object with `username` and `password`
     submit = ( values ) => {
         this.props.loginRequest( values )
@@ -50,13 +71,13 @@ class LoginForm extends Component {
                         />
                         <Field
                             name="password"
-                            type="password"
+                            type={ this.state.passInputType }
                             id="loginPassword"
                             className="form-control"
                             placeholder="Password"
                             component="input"
                         />
-                        <a className="show-password">Show password</a>
+                        <a className="show-password" onClick={ this.togglePassword }>{ this.state.passToggleText }</a>
                         <div className="checkbox-container">
                                 <div className="checkbox-wrapper">
                                     <Field
