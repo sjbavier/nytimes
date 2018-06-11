@@ -1,8 +1,8 @@
 {
-  "name": "sjbavier.github.io",
+  "name": "nytimes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sjbavier.github.io/sjbavier.github.io",
+  "homepage": "https://sjbavier.github.io/nytimes",
   "dependencies": {
     "bootstrap": "3",
     "history": "^4.7.2",
