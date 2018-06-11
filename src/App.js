@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
 import { Grid, Row, Col, Button } from 'react-bootstrap'
 import PropTypes from 'prop-types'
+import { Route } from 'react-router-dom'
 import { connect } from 'react-redux'
 import LoginForm from './components/login-form/login-form'
 import CreateAccountForm from './components/create-account-form/create-account-form'
+import LoginSuccess from './views/login-success'
+import SignupSuccess from './views/signup-success'
+
 import './App.css';
 
 import logo from './img/nyt-logo-379x64.svg'
@@ -24,6 +28,9 @@ class App extends Component {
       successful: PropTypes.bool,
       messages: PropTypes.array,
       errors: PropTypes.array,
+    }),
+    signup: PropTypes.shape({
+      successful: PropTypes.bool,
     }),
   }
 
@@ -77,7 +84,7 @@ class App extends Component {
                   <p>Don't have an account? <a href="" onClick={ this.showSignup }>Create one <span className="sub">&rsaquo;&rsaquo;</span></a></p>
                   </div>
                 )}
-                {!requesting && !successful && this.state.signupForm && (
+                {!requesting && !this.props.signup.successful && this.state.signupForm && (
                   <div>
                   <h2>Create Your Account</h2>
                   <p>Already have an account? <a href="" onClick={ this.showSignup }>Log in <span className="sub">&rsaquo;&rsaquo;</span></a></p>
@@ -94,9 +101,11 @@ class App extends Component {
                 {!requesting && !successful && !this.state.signupForm && (
                   <LoginForm />
                 )}
-                {!requesting && !successful && this.state.signupForm && (
+                {!requesting && !this.props.signup.successful && this.state.signupForm && (
                     <CreateAccountForm />
                 )}
+                <Route path="/login-success" component={ LoginSuccess } />
+                <Route path="/signup-success" component={ SignupSuccess } />
                 
                 </div>
               </Col>
@@ -133,6 +142,7 @@ class App extends Component {
 
 const mapStateToProps = state => ({
   login: state.login,
+  signup: state.signup,
 })
 
 const connected = connect( mapStateToProps )( App )
