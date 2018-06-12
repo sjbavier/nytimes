@@ -92,8 +92,8 @@ class App extends Component {
                 )}
 
                   <div className="smedia-container">
-                    <Button bsStyle="large" className="smedia facebook-blue border-box">Log In with Facebook<span className="facebook-icon"></span></Button>
-                    <Button bsStyle="large" className="smedia google-blue border-box">Log In with Google<span className="google-icon"></span></Button>
+                    <Button bsStyle="large" className="smedia facebook-blue border-box">Use Facebook<span className="facebook-icon"></span></Button>
+                    <Button bsStyle="large" className="smedia google-blue border-box">Use Google<span className="google-icon"></span></Button>
                   </div>
                   <div className="wordSplit">OR</div>
 
