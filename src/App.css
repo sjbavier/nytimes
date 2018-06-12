@@ -108,14 +108,16 @@ img#nytimesLogo {
   transition: all .3s;
   position: relative;
 }
-.smedia:first-of-type {
+
+.smedia-container button:first-of-type {
   margin-right: 8px;
 }
-.smedia:last-of-type {
+.smedia-container button:last-of-type {
   margin-left: 8px;
 }
 .smedia span.facebook-icon {
-  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%22110%22%20height%3D%…%22%20fill%3D%22%233C5A99%22%20fill-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E");
+  background-image: url(./img/facebook.svg);
+  background-size: 2.6em;
   background-repeat: no-repeat;
   position: absolute;
   display: block;
@@ -136,9 +138,11 @@ img#nytimesLogo {
   background-color: #526bc8;
   border-color: #526bc8;
 }
-.smedia span.google-icon {
-  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%22180%22%20height%3D%…853%22%2F%3E%3Cpath%20d%3D%22M0%200h18v18H0%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+.smedia-container button.google-blue::after {
+  background-image: url(./img/google-logo.svg);
   background-repeat: no-repeat;
+  background-size: 2.2em;
+  content: '';
   position: absolute;
   display: block;
   top: 0;

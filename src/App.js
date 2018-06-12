@@ -7,6 +7,10 @@ import LoginForm from './components/login-form/login-form'
 import CreateAccountForm from './components/create-account-form/create-account-form'
 import LoginSuccess from './views/login-success'
 import SignupSuccess from './views/signup-success'
+import FacebookLogin from 'react-facebook-login/dist/facebook-login-render-props'
+import { GoogleLogin } from 'react-google-login'
+
+import config from './components/oauth/config.json'
 
 import './App.css';
 
@@ -44,6 +48,13 @@ class App extends Component {
       this.setState({ signupForm: false })
     }
     
+  }
+
+  responseFacebook = ( response ) => {
+    console.log( response )
+  }
+  responseGoogle = ( response ) => {
+    console.log( response )
   }
 
   render() {
@@ -92,9 +103,27 @@ class App extends Component {
                 )}
 
                   <div className="smedia-container">
-                    <Button bsStyle="large" className="smedia facebook-blue border-box">Use Facebook<span className="facebook-icon"></span></Button>
+                    <FacebookLogin 
+                      appId={ config.FACEBOOK_APP_ID }
+                      autoLoad={true}
+                      fields="name,email,picture"
+                      callback={ this.responseFacebook }
+                      render= { renderProps => (
+                        <Button bsStyle="large" className="smedia facebook-blue border-box" onClick={ renderProps.onClick }>Use Facebook<span className="facebook-icon"></span></Button>
+                      )}
+                    />
+                    <GoogleLogin
+                      clientId={ config.GOOGLE_CLIENT_ID }
+                      buttonText="Use Google"
+                      className="smedia google-blue border-box"
+                      onSuccess={ this.responseGoogle }
+                      onFailure={ this.responseGoogle }
+                    />
+                    {/* <Button bsStyle="large" className="smedia facebook-blue border-box">Use Facebook<span className="facebook-icon"></span></Button>
                     <Button bsStyle="large" className="smedia google-blue border-box">Use Google<span className="google-icon"></span></Button>
-                  </div>
+                    */}
+                  </div> 
+
                   <div className="wordSplit">OR</div>
 
                 { /* conditional rendering of the sign up or log in form  */ }
