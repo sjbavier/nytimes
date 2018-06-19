@@ -15,6 +15,7 @@ class LoginForm extends Component {
             showPassword: false,
             passInputType: "password",
             passToggleText: "Show Password",
+            rememberMe: true,
         }
 
         this.togglePassword = this.togglePassword.bind(this)
@@ -31,9 +32,10 @@ class LoginForm extends Component {
           errors: PropTypes.array,
         }),
       }
+    
 
     
-     togglePassword = ( e ) => {
+    togglePassword = ( e ) => {
         e.preventDefault()
         e.stopPropagation()
 
@@ -86,7 +88,6 @@ class LoginForm extends Component {
                                         id="rememberMe"
                                         className=""
                                         component="input"
-                                        checked={true}
                                     />
                                     <label className="checkbox-label">Remember me</label>
                                 </div>

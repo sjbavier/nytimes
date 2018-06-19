@@ -105,7 +105,7 @@ class App extends Component {
                   <div className="smedia-container">
                     <FacebookLogin 
                       appId={ config.FACEBOOK_APP_ID }
-                      autoLoad={true}
+                      autoLoad={false}
                       fields="name,email,picture"
                       callback={ this.responseFacebook }
                       render= { renderProps => (

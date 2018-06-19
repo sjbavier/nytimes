@@ -1,6 +1,10 @@
 {
   "name": "nytimes",
-  "version": "0.1.2",
+<<<<<<< HEAD
+  "version": "0.1.3",
+=======
+  "version": "0.1.3",
+>>>>>>> oauth
   "private": true,
   "homepage": "https://sjbavier.github.io/nytimes",
   "dependencies": {
