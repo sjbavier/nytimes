@@ -84,7 +84,6 @@ class CreateAccountForm extends Component {
                                         id="agreement"
                                         className=""
                                         component="input"
-                                        checked={true}
                                     />
                                     <label className="checkbox-label">You agree to receive occasional updates and special offers for The New York Times's products and services. You may opt out or contact us anytime.<br /><br />
 By creating an account, you agree to the Terms of Service and acknowledge our Privacy Policy.</label>
