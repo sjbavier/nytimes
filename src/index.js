@@ -19,6 +19,8 @@ import  createSagaMiddleware from 'redux-saga'
 import { Router, Route, BrowserRouter, Switch, Redirect } from 'react-router-dom'
 import history from './components/history/history'
 
+import LoginSuccess from './views/login-success'
+
 // Import combined reducer and saga
 import IndexReducer from './index-reducer'
 import IndexSagas from './index-sagas'
@@ -51,7 +53,8 @@ ReactDOM.render(
           <BrowserRouter>
                 <Router history={ history }>
                       <Switch>
-                            <Route path="/" component={ App } />
+                            <Route path="/" exact component={ App } />
+                            <Route path="/login-success" exact component={ LoginSuccess } />
                             <Redirect to="/" />
                       </Switch>
                 </Router>

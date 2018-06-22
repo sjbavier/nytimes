@@ -5,11 +5,9 @@ import { Route } from 'react-router-dom'
 import { connect } from 'react-redux'
 import LoginForm from './components/login-form/login-form'
 import CreateAccountForm from './components/create-account-form/create-account-form'
-import LoginSuccess from './views/login-success'
 import SignupSuccess from './views/signup-success'
 import FacebookLogin from 'react-facebook-login/dist/facebook-login-render-props'
 import { GoogleLogin } from 'react-google-login'
-
 import config from './components/oauth/config.json'
 
 import './App.css';
@@ -70,6 +68,7 @@ class App extends Component {
 
     return (
       <div className="App">
+
           <Grid fluid={ true } className="content-wrapper">
             <Row>
               <Col lg={2} md={2} sm={1}>
@@ -119,9 +118,7 @@ class App extends Component {
                       onSuccess={ this.responseGoogle }
                       onFailure={ this.responseGoogle }
                     />
-                    {/* <Button bsStyle="large" className="smedia facebook-blue border-box">Use Facebook<span className="facebook-icon"></span></Button>
-                    <Button bsStyle="large" className="smedia google-blue border-box">Use Google<span className="google-icon"></span></Button>
-                    */}
+
                   </div> 
 
                   <div className="wordSplit">OR</div>
@@ -133,9 +130,7 @@ class App extends Component {
                 {!requesting && !this.props.signup.successful && this.state.signupForm && (
                     <CreateAccountForm />
                 )}
-                <Route path="/login-success" component={ LoginSuccess } />
                 <Route path="/signup-success" component={ SignupSuccess } />
-                
                 </div>
               </Col>
               <Col lg={2} md={2} sm={1}>

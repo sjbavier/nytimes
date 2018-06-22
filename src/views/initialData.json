@@ -1,0 +1,2542 @@
+[{
+    "CreditPool": 0,
+    "Util1": 39921792,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 107,
+    "Util1": 18063855,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 86,
+    "Util1": 16580433,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "BNK3"
+}, {
+    "CreditPool": 109,
+    "Util1": 32453542,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "BNK4"
+}, {
+    "CreditPool": 13,
+    "Util1": 118483544,
+    "WarnPct": 75,
+    "Limit1": 150000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "DLR1"
+}, {
+    "CreditPool": 14,
+    "Util1": 22381536,
+    "WarnPct": 75,
+    "Limit1": 160000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "DLR2"
+}, {
+    "CreditPool": 0,
+    "Util1": 36220472,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 107,
+    "Util1": 10088672,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 86,
+    "Util1": 15335473,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "FND3"
+}, {
+    "CreditPool": 109,
+    "Util1": 20575953,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "FND4"
+}, {
+    "CreditPool": 11,
+    "Util1": 32309669,
+    "WarnPct": 75,
+    "Limit1": 150000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "KTCO"
+}, {
+    "CreditPool": 27,
+    "Util1": 369926,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 40,
+    "Util1": 10713802,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 7,
+    "Util1": 101164626,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "RBC"
+}, {
+    "CreditPool": 0,
+    "Util1": 52801516,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNK1",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 3,
+    "Util1": 49649368,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 0,
+    "Util1": 62320735,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 102,
+    "Util1": 27080214,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "BNK3"
+}, {
+    "CreditPool": 104,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "BNK4"
+}, {
+    "CreditPool": 13,
+    "Util1": 60485910,
+    "WarnPct": 75,
+    "Limit1": 150000000,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "DLR1"
+}, {
+    "CreditPool": 14,
+    "Util1": 154795695,
+    "WarnPct": 75,
+    "Limit1": 160000000,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "DLR2"
+}, {
+    "CreditPool": 3,
+    "Util1": 225850324,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 0,
+    "Util1": 39375355,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 102,
+    "Util1": 33589205,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "FND3"
+}, {
+    "CreditPool": 104,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "FND4"
+}, {
+    "CreditPool": 31,
+    "Util1": 2322816,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 41,
+    "Util1": 19837165,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 7,
+    "Util1": 280004033,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "RBC"
+}, {
+    "CreditPool": 3,
+    "Util1": 227404293,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "BNK2",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 4,
+    "Util1": 645362,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "RBC",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 5,
+    "Util1": 65623318,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "RBC",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 13,
+    "Util1": 20517441,
+    "WarnPct": 75,
+    "Limit1": 150000000,
+    "DealcodeTo": "RBC",
+    "DealcodeFrom": "DLR1"
+}, {
+    "CreditPool": 14,
+    "Util1": 100828266,
+    "WarnPct": 75,
+    "Limit1": 160000000,
+    "DealcodeTo": "RBC",
+    "DealcodeFrom": "DLR2"
+}, {
+    "CreditPool": 4,
+    "Util1": 222693142,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "RBC",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 5,
+    "Util1": 129692776,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "RBC",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 32,
+    "Util1": 31984911,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "RBC",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 42,
+    "Util1": 14266328,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "RBC",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 0,
+    "Util1": 47515670,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "RBC",
+    "DealcodeFrom": "RBC"
+}, {
+    "CreditPool": 4,
+    "Util1": 161641393,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "RBC",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 10,
+    "Util1": 181890934,
+    "WarnPct": 75,
+    "Limit1": 240000000,
+    "DealcodeTo": "KTCO",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 10,
+    "Util1": 132109792,
+    "WarnPct": 75,
+    "Limit1": 240000000,
+    "DealcodeTo": "KTCO",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 0,
+    "Util1": 42093620,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "KTCO",
+    "DealcodeFrom": "KTCO"
+}, {
+    "CreditPool": 10,
+    "Util1": 39298451,
+    "WarnPct": 75,
+    "Limit1": 240000000,
+    "DealcodeTo": "KTCO",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 0,
+    "Util1": 24491839,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 107,
+    "Util1": 34619367,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 86,
+    "Util1": 37380223,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "BNK3"
+}, {
+    "CreditPool": 109,
+    "Util1": 38649958,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "BNK4"
+}, {
+    "CreditPool": 13,
+    "Util1": 94818053,
+    "WarnPct": 75,
+    "Limit1": 150000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "DLR1"
+}, {
+    "CreditPool": 14,
+    "Util1": 34046915,
+    "WarnPct": 75,
+    "Limit1": 160000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "DLR2"
+}, {
+    "CreditPool": 0,
+    "Util1": 23363224,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 107,
+    "Util1": 48638280,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 86,
+    "Util1": 12973697,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "FND3"
+}, {
+    "CreditPool": 109,
+    "Util1": 48755741,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "FND4"
+}, {
+    "CreditPool": 11,
+    "Util1": 73989589,
+    "WarnPct": 75,
+    "Limit1": 150000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "KTCO"
+}, {
+    "CreditPool": 27,
+    "Util1": 3519218,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 40,
+    "Util1": 40502655,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 7,
+    "Util1": 89387503,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "RBC"
+}, {
+    "CreditPool": 0,
+    "Util1": 38663491,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FND1",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 3,
+    "Util1": 134632266,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 0,
+    "Util1": 16791468,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 102,
+    "Util1": 47696396,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "BNK3"
+}, {
+    "CreditPool": 104,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "BNK4"
+}, {
+    "CreditPool": 13,
+    "Util1": 47054364,
+    "WarnPct": 75,
+    "Limit1": 150000000,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "DLR1"
+}, {
+    "CreditPool": 14,
+    "Util1": 101311834,
+    "WarnPct": 75,
+    "Limit1": 160000000,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "DLR2"
+}, {
+    "CreditPool": 3,
+    "Util1": 62255629,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 0,
+    "Util1": 16108364,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 102,
+    "Util1": 46175267,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "FND3"
+}, {
+    "CreditPool": 104,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "FND4"
+}, {
+    "CreditPool": 31,
+    "Util1": 9575894,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 41,
+    "Util1": 12132563,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 7,
+    "Util1": 121678403,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "RBC"
+}, {
+    "CreditPool": 3,
+    "Util1": 265924375,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "FND2",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 85,
+    "Util1": 11491515,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND3",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 101,
+    "Util1": 39674932,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND3",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 0,
+    "Util1": 55440109,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FND3",
+    "DealcodeFrom": "BNK3"
+}, {
+    "CreditPool": 106,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FND3",
+    "DealcodeFrom": "BNK4"
+}, {
+    "CreditPool": 85,
+    "Util1": 36421984,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND3",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 101,
+    "Util1": 27270041,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND3",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 0,
+    "Util1": 11366247,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FND3",
+    "DealcodeFrom": "FND3"
+}, {
+    "CreditPool": 106,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FND3",
+    "DealcodeFrom": "FND4"
+}, {
+    "CreditPool": 85,
+    "Util1": 54022271,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND3",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 0,
+    "Util1": 31197788,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 107,
+    "Util1": 52670468,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 86,
+    "Util1": 25484278,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "BNK3"
+}, {
+    "CreditPool": 109,
+    "Util1": 10167101,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "BNK4"
+}, {
+    "CreditPool": 13,
+    "Util1": 59541104,
+    "WarnPct": 75,
+    "Limit1": 150000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "DLR1"
+}, {
+    "CreditPool": 14,
+    "Util1": 2689324,
+    "WarnPct": 75,
+    "Limit1": 160000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "DLR2"
+}, {
+    "CreditPool": 0,
+    "Util1": 49294826,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 107,
+    "Util1": 2379647,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 86,
+    "Util1": 1892000,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "FND3"
+}, {
+    "CreditPool": 109,
+    "Util1": 14531200,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "FND4"
+}, {
+    "CreditPool": 11,
+    "Util1": 47662037,
+    "WarnPct": 75,
+    "Limit1": 150000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "KTCO"
+}, {
+    "CreditPool": 27,
+    "Util1": 51450703,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 40,
+    "Util1": 25980040,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 7,
+    "Util1": 152822302,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "RBC"
+}, {
+    "CreditPool": 0,
+    "Util1": 51594841,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "SCND",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 4,
+    "Util1": 80517512,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "DLR1",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 5,
+    "Util1": 19134745,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "DLR1",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 0,
+    "Util1": 52558581,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "DLR1",
+    "DealcodeFrom": "DLR1"
+}, {
+    "CreditPool": 14,
+    "Util1": 89033372,
+    "WarnPct": 75,
+    "Limit1": 160000000,
+    "DealcodeTo": "DLR1",
+    "DealcodeFrom": "DLR2"
+}, {
+    "CreditPool": 16,
+    "Util1": 60845093,
+    "WarnPct": 75,
+    "Limit1": 150000000,
+    "DealcodeTo": "DLR1",
+    "DealcodeFrom": "FRBG"
+}, {
+    "CreditPool": 4,
+    "Util1": 209675479,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "DLR1",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 5,
+    "Util1": 188622516,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "DLR1",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 21,
+    "Util1": 39349714,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "DLR1",
+    "DealcodeFrom": "MTBC"
+}, {
+    "CreditPool": 7,
+    "Util1": 240620285,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "DLR1",
+    "DealcodeFrom": "RBC"
+}, {
+    "CreditPool": 4,
+    "Util1": 101048365,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "DLR1",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 4,
+    "Util1": 54336463,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "DLR2",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 5,
+    "Util1": 122957598,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "DLR2",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 15,
+    "Util1": 15722095,
+    "WarnPct": 75,
+    "Limit1": 100000000,
+    "DealcodeTo": "DLR2",
+    "DealcodeFrom": "DLR1"
+}, {
+    "CreditPool": 0,
+    "Util1": 19699044,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "DLR2",
+    "DealcodeFrom": "DLR2"
+}, {
+    "CreditPool": 4,
+    "Util1": 76784667,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "DLR2",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 5,
+    "Util1": 53038738,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "DLR2",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 25,
+    "Util1": 3334822,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "DLR2",
+    "DealcodeFrom": "MTBC"
+}, {
+    "CreditPool": 7,
+    "Util1": 139459618,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "DLR2",
+    "DealcodeFrom": "RBC"
+}, {
+    "CreditPool": 4,
+    "Util1": 99665806,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "DLR2",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 76,
+    "Util1": 7702768,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FRBG",
+    "DealcodeFrom": "CNTG"
+}, {
+    "CreditPool": 76,
+    "Util1": 26954166,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FRBG",
+    "DealcodeFrom": "CTTP"
+}, {
+    "CreditPool": 18,
+    "Util1": 57010650,
+    "WarnPct": 75,
+    "Limit1": 150000000,
+    "DealcodeTo": "FRBG",
+    "DealcodeFrom": "DLR1"
+}, {
+    "CreditPool": 0,
+    "Util1": 11762810,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FRBG",
+    "DealcodeFrom": "FRBG"
+}, {
+    "CreditPool": 33,
+    "Util1": 57937498,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FRBG",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 43,
+    "Util1": 44571310,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FRBG",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 76,
+    "Util1": 25417424,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FRBG",
+    "DealcodeFrom": "PGMC"
+}, {
+    "CreditPool": 77,
+    "Util1": 21789289,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MTBC",
+    "DealcodeFrom": "CNTG"
+}, {
+    "CreditPool": 77,
+    "Util1": 5239704,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MTBC",
+    "DealcodeFrom": "CTTP"
+}, {
+    "CreditPool": 22,
+    "Util1": 23450784,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MTBC",
+    "DealcodeFrom": "DLR1"
+}, {
+    "CreditPool": 26,
+    "Util1": 38407578,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MTBC",
+    "DealcodeFrom": "DLR2"
+}, {
+    "CreditPool": 0,
+    "Util1": 42555643,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "MTBC",
+    "DealcodeFrom": "MTBC"
+}, {
+    "CreditPool": 77,
+    "Util1": 29383836,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MTBC",
+    "DealcodeFrom": "PGMC"
+}, {
+    "CreditPool": 45,
+    "Util1": 30110377,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 46,
+    "Util1": 7642664,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 70,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "CNTG"
+}, {
+    "CreditPool": 70,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "CTTP"
+}, {
+    "CreditPool": 48,
+    "Util1": 17572047,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "FRBG"
+}, {
+    "CreditPool": 45,
+    "Util1": 21777099,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 46,
+    "Util1": 15616478,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 72,
+    "Util1": 40719212,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "MFTP"
+}, {
+    "CreditPool": 0,
+    "Util1": 36428421,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 44,
+    "Util1": 22745290,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 72,
+    "Util1": 14109808,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "MSFR"
+}, {
+    "CreditPool": 55,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 70,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "PGMC"
+}, {
+    "CreditPool": 47,
+    "Util1": 36548078,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "RBC"
+}, {
+    "CreditPool": 45,
+    "Util1": 59539174,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 55,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MM01",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 49,
+    "Util1": 8068173,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 50,
+    "Util1": 12490757,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 71,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "CNTG"
+}, {
+    "CreditPool": 71,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "CTTP"
+}, {
+    "CreditPool": 52,
+    "Util1": 42299766,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "FRBG"
+}, {
+    "CreditPool": 49,
+    "Util1": 49891543,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 50,
+    "Util1": 27241447,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 73,
+    "Util1": 8563628,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "MFTP"
+}, {
+    "CreditPool": 34,
+    "Util1": 37535928,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 0,
+    "Util1": 39720992,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 73,
+    "Util1": 48266536,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "MSFR"
+}, {
+    "CreditPool": 56,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 71,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "PGMC"
+}, {
+    "CreditPool": 51,
+    "Util1": 56567016,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "RBC"
+}, {
+    "CreditPool": 49,
+    "Util1": 39661788,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 56,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MM02",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 133,
+    "Util1": 27989946,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "BNKA"
+}, {
+    "CreditPool": 60,
+    "Util1": 11571415,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "CNTG"
+}, {
+    "CreditPool": 60,
+    "Util1": 27947396,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "CTTP"
+}, {
+    "CreditPool": 81,
+    "Util1": 6857802,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "DLGG"
+}, {
+    "CreditPool": 84,
+    "Util1": 58771693,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "FCST"
+}, {
+    "CreditPool": 133,
+    "Util1": 34941981,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "FNDA"
+}, {
+    "CreditPool": 57,
+    "Util1": 14952411,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "MFTP"
+}, {
+    "CreditPool": 63,
+    "Util1": 29618012,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 66,
+    "Util1": 8170543,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 57,
+    "Util1": 8678224,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "MSFR"
+}, {
+    "CreditPool": 0,
+    "Util1": 34486542,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 60,
+    "Util1": 37572632,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "PGMC"
+}, {
+    "CreditPool": 0,
+    "Util1": 12889150,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 61,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MSFR",
+    "DealcodeFrom": "CNTG"
+}, {
+    "CreditPool": 61,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MSFR",
+    "DealcodeFrom": "CTTP"
+}, {
+    "CreditPool": 0,
+    "Util1": 57490175,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "MSFR",
+    "DealcodeFrom": "MFTP"
+}, {
+    "CreditPool": 64,
+    "Util1": 36537430,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MSFR",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 67,
+    "Util1": 43837026,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MSFR",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 0,
+    "Util1": 26473322,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "MSFR",
+    "DealcodeFrom": "MSFR"
+}, {
+    "CreditPool": 53,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MSFR",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 61,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MSFR",
+    "DealcodeFrom": "PGMC"
+}, {
+    "CreditPool": 53,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MSFR",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 0,
+    "Util1": 10403537,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "CNTG",
+    "DealcodeFrom": "CNTG"
+}, {
+    "CreditPool": 0,
+    "Util1": 65261560,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "CNTG",
+    "DealcodeFrom": "CTTP"
+}, {
+    "CreditPool": 78,
+    "Util1": 22125292,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CNTG",
+    "DealcodeFrom": "FRBG"
+}, {
+    "CreditPool": 58,
+    "Util1": 6422353,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CNTG",
+    "DealcodeFrom": "MFTP"
+}, {
+    "CreditPool": 65,
+    "Util1": 42897092,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CNTG",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 0,
+    "Util1": 40967953,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "CNTG",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 58,
+    "Util1": 21554472,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CNTG",
+    "DealcodeFrom": "MSFR"
+}, {
+    "CreditPool": 79,
+    "Util1": 14342642,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CNTG",
+    "DealcodeFrom": "MTBC"
+}, {
+    "CreditPool": 54,
+    "Util1": 18519973,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CNTG",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 0,
+    "Util1": 47075314,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "CNTG",
+    "DealcodeFrom": "PGMC"
+}, {
+    "CreditPool": 54,
+    "Util1": 46439311,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CNTG",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 61,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MFTP",
+    "DealcodeFrom": "CNTG"
+}, {
+    "CreditPool": 61,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MFTP",
+    "DealcodeFrom": "CTTP"
+}, {
+    "CreditPool": 0,
+    "Util1": 30905083,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "MFTP",
+    "DealcodeFrom": "MFTP"
+}, {
+    "CreditPool": 64,
+    "Util1": 36716831,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MFTP",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 67,
+    "Util1": 24760042,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "MFTP",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 0,
+    "Util1": 21988278,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "MFTP",
+    "DealcodeFrom": "MSFR"
+}, {
+    "CreditPool": 53,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MFTP",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 61,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MFTP",
+    "DealcodeFrom": "PGMC"
+}, {
+    "CreditPool": 53,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "MFTP",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 0,
+    "Util1": 47979185,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "CTTP",
+    "DealcodeFrom": "CNTG"
+}, {
+    "CreditPool": 0,
+    "Util1": 13228433,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "CTTP",
+    "DealcodeFrom": "CTTP"
+}, {
+    "CreditPool": 78,
+    "Util1": 15934170,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CTTP",
+    "DealcodeFrom": "FRBG"
+}, {
+    "CreditPool": 58,
+    "Util1": 14516624,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CTTP",
+    "DealcodeFrom": "MFTP"
+}, {
+    "CreditPool": 65,
+    "Util1": 12408338,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CTTP",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 0,
+    "Util1": 49619713,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "CTTP",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 58,
+    "Util1": 25392740,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CTTP",
+    "DealcodeFrom": "MSFR"
+}, {
+    "CreditPool": 79,
+    "Util1": 16482615,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CTTP",
+    "DealcodeFrom": "MTBC"
+}, {
+    "CreditPool": 54,
+    "Util1": 24635052,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CTTP",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 0,
+    "Util1": 21694718,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "CTTP",
+    "DealcodeFrom": "PGMC"
+}, {
+    "CreditPool": 54,
+    "Util1": 33011502,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "CTTP",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 0,
+    "Util1": 32687957,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST",
+    "DealcodeFrom": "NABX-CUST"
+}, {
+    "CreditPool": 0,
+    "Util1": 30257332,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST",
+    "DealcodeFrom": "NABX-CUST1"
+}, {
+    "CreditPool": 0,
+    "Util1": 16697727,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST",
+    "DealcodeFrom": "NABX-CUST2"
+}, {
+    "CreditPool": 0,
+    "Util1": 44940853,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST",
+    "DealcodeFrom": "NABX-CUST3"
+}, {
+    "CreditPool": 0,
+    "Util1": 43596676,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST",
+    "DealcodeFrom": "NABX-HOUSE"
+}, {
+    "CreditPool": 0,
+    "Util1": 27869201,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST1",
+    "DealcodeFrom": "NABX-CUST"
+}, {
+    "CreditPool": 0,
+    "Util1": 5144761,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST1",
+    "DealcodeFrom": "NABX-CUST1"
+}, {
+    "CreditPool": 0,
+    "Util1": 44927675,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST1",
+    "DealcodeFrom": "NABX-CUST2"
+}, {
+    "CreditPool": 0,
+    "Util1": 15323002,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST1",
+    "DealcodeFrom": "NABX-CUST3"
+}, {
+    "CreditPool": 0,
+    "Util1": 18787986,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST1",
+    "DealcodeFrom": "NABX-HOUSE"
+}, {
+    "CreditPool": 0,
+    "Util1": 21064729,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST2",
+    "DealcodeFrom": "NABX-CUST"
+}, {
+    "CreditPool": 0,
+    "Util1": 33138009,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST2",
+    "DealcodeFrom": "NABX-CUST1"
+}, {
+    "CreditPool": 0,
+    "Util1": 44039622,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST2",
+    "DealcodeFrom": "NABX-CUST2"
+}, {
+    "CreditPool": 0,
+    "Util1": 10510756,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST2",
+    "DealcodeFrom": "NABX-CUST3"
+}, {
+    "CreditPool": 0,
+    "Util1": 1347785,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST2",
+    "DealcodeFrom": "NABX-HOUSE"
+}, {
+    "CreditPool": 0,
+    "Util1": 63011145,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST3",
+    "DealcodeFrom": "NABX-CUST"
+}, {
+    "CreditPool": 0,
+    "Util1": 63081703,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST3",
+    "DealcodeFrom": "NABX-CUST1"
+}, {
+    "CreditPool": 0,
+    "Util1": 37452072,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST3",
+    "DealcodeFrom": "NABX-CUST2"
+}, {
+    "CreditPool": 0,
+    "Util1": 11854074,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST3",
+    "DealcodeFrom": "NABX-CUST3"
+}, {
+    "CreditPool": 0,
+    "Util1": 20158774,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-CUST3",
+    "DealcodeFrom": "NABX-HOUSE"
+}, {
+    "CreditPool": 0,
+    "Util1": 12330060,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "PGMC",
+    "DealcodeFrom": "CNTG"
+}, {
+    "CreditPool": 0,
+    "Util1": 52842193,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "PGMC",
+    "DealcodeFrom": "CTTP"
+}, {
+    "CreditPool": 78,
+    "Util1": 31846497,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "PGMC",
+    "DealcodeFrom": "FRBG"
+}, {
+    "CreditPool": 58,
+    "Util1": 52738261,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "PGMC",
+    "DealcodeFrom": "MFTP"
+}, {
+    "CreditPool": 65,
+    "Util1": 55408495,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "PGMC",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 0,
+    "Util1": 41928779,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "PGMC",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 58,
+    "Util1": 45547938,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "PGMC",
+    "DealcodeFrom": "MSFR"
+}, {
+    "CreditPool": 79,
+    "Util1": 42357204,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "PGMC",
+    "DealcodeFrom": "MTBC"
+}, {
+    "CreditPool": 54,
+    "Util1": 34855449,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "PGMC",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 0,
+    "Util1": 45142592,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "PGMC",
+    "DealcodeFrom": "PGMC"
+}, {
+    "CreditPool": 54,
+    "Util1": 46036664,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "PGMC",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 0,
+    "Util1": 27882979,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "DLGG",
+    "DealcodeFrom": "DLGG"
+}, {
+    "CreditPool": 80,
+    "Util1": 7285132,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "DLGG",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 80,
+    "Util1": 30284065,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "DLGG",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 133,
+    "Util1": 29831064,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "BNKA"
+}, {
+    "CreditPool": 60,
+    "Util1": 54233660,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "CNTG"
+}, {
+    "CreditPool": 60,
+    "Util1": 41959988,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "CTTP"
+}, {
+    "CreditPool": 81,
+    "Util1": 9136854,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "DLGG"
+}, {
+    "CreditPool": 84,
+    "Util1": 35960353,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "FCST"
+}, {
+    "CreditPool": 133,
+    "Util1": 1015045,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "FNDA"
+}, {
+    "CreditPool": 57,
+    "Util1": 55642703,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "MFTP"
+}, {
+    "CreditPool": 63,
+    "Util1": 28075974,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "MM01"
+}, {
+    "CreditPool": 66,
+    "Util1": 32659194,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "MM02"
+}, {
+    "CreditPool": 57,
+    "Util1": 7840948,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "MSFR"
+}, {
+    "CreditPool": 0,
+    "Util1": 38549808,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 60,
+    "Util1": 55291805,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "PGMC"
+}, {
+    "CreditPool": 0,
+    "Util1": 16650487,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "SPRT",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 0,
+    "Util1": 32970393,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FCST",
+    "DealcodeFrom": "FCST"
+}, {
+    "CreditPool": 83,
+    "Util1": 13257370,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FCST",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 83,
+    "Util1": 42132288,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FCST",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 85,
+    "Util1": 21197167,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK3",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 101,
+    "Util1": 23555607,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK3",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 0,
+    "Util1": 18460243,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNK3",
+    "DealcodeFrom": "BNK3"
+}, {
+    "CreditPool": 106,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNK3",
+    "DealcodeFrom": "BNK4"
+}, {
+    "CreditPool": 85,
+    "Util1": 19269558,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK3",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 101,
+    "Util1": 4396833,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK3",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 0,
+    "Util1": 33125217,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNK3",
+    "DealcodeFrom": "FND3"
+}, {
+    "CreditPool": 106,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNK3",
+    "DealcodeFrom": "FND4"
+}, {
+    "CreditPool": 85,
+    "Util1": 8211430,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK3",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 108,
+    "Util1": 42694907,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK4",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 105,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNK4",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 103,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNK4",
+    "DealcodeFrom": "BNK3"
+}, {
+    "CreditPool": 0,
+    "Util1": 53800773,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNK4",
+    "DealcodeFrom": "BNK4"
+}, {
+    "CreditPool": 108,
+    "Util1": 49206109,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK4",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 105,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNK4",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 103,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNK4",
+    "DealcodeFrom": "FND3"
+}, {
+    "CreditPool": 0,
+    "Util1": 10990830,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNK4",
+    "DealcodeFrom": "FND4"
+}, {
+    "CreditPool": 108,
+    "Util1": 37058037,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNK4",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 108,
+    "Util1": 14177761,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND4",
+    "DealcodeFrom": "BNK1"
+}, {
+    "CreditPool": 105,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FND4",
+    "DealcodeFrom": "BNK2"
+}, {
+    "CreditPool": 103,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FND4",
+    "DealcodeFrom": "BNK3"
+}, {
+    "CreditPool": 0,
+    "Util1": 18272414,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FND4",
+    "DealcodeFrom": "BNK4"
+}, {
+    "CreditPool": 108,
+    "Util1": 12784580,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND4",
+    "DealcodeFrom": "FND1"
+}, {
+    "CreditPool": 105,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FND4",
+    "DealcodeFrom": "FND2"
+}, {
+    "CreditPool": 103,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FND4",
+    "DealcodeFrom": "FND3"
+}, {
+    "CreditPool": 0,
+    "Util1": 35820917,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FND4",
+    "DealcodeFrom": "FND4"
+}, {
+    "CreditPool": 108,
+    "Util1": 21939509,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FND4",
+    "DealcodeFrom": "SCND"
+}, {
+    "CreditPool": 0,
+    "Util1": 4147502,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-HOUSE",
+    "DealcodeFrom": "NABX-CUST"
+}, {
+    "CreditPool": 0,
+    "Util1": 59601423,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-HOUSE",
+    "DealcodeFrom": "NABX-CUST1"
+}, {
+    "CreditPool": 0,
+    "Util1": 39099534,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-HOUSE",
+    "DealcodeFrom": "NABX-CUST2"
+}, {
+    "CreditPool": 0,
+    "Util1": 8478369,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-HOUSE",
+    "DealcodeFrom": "NABX-CUST3"
+}, {
+    "CreditPool": 0,
+    "Util1": 7193225,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "NABX-HOUSE",
+    "DealcodeFrom": "NABX-HOUSE"
+}, {
+    "CreditPool": 0,
+    "Util1": 60365972,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNKA",
+    "DealcodeFrom": "BNKA"
+}, {
+    "CreditPool": 117,
+    "Util1": 23831337,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKA",
+    "DealcodeFrom": "BNKB"
+}, {
+    "CreditPool": 121,
+    "Util1": 18892012,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKA",
+    "DealcodeFrom": "BNKC"
+}, {
+    "CreditPool": 123,
+    "Util1": 24466215,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKA",
+    "DealcodeFrom": "BNKD"
+}, {
+    "CreditPool": 0,
+    "Util1": 60312992,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNKA",
+    "DealcodeFrom": "FNDA"
+}, {
+    "CreditPool": 117,
+    "Util1": 41573953,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKA",
+    "DealcodeFrom": "FNDB"
+}, {
+    "CreditPool": 121,
+    "Util1": 56435198,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKA",
+    "DealcodeFrom": "FNDC"
+}, {
+    "CreditPool": 123,
+    "Util1": 38103201,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKA",
+    "DealcodeFrom": "FNDD"
+}, {
+    "CreditPool": 131,
+    "Util1": 36044062,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKA",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 131,
+    "Util1": 41908384,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKA",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 115,
+    "Util1": 259313779,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "BNKB",
+    "DealcodeFrom": "BNKA"
+}, {
+    "CreditPool": 0,
+    "Util1": 9038612,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNKB",
+    "DealcodeFrom": "BNKB"
+}, {
+    "CreditPool": 126,
+    "Util1": 49356700,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKB",
+    "DealcodeFrom": "BNKC"
+}, {
+    "CreditPool": 124,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNKB",
+    "DealcodeFrom": "BNKD"
+}, {
+    "CreditPool": 115,
+    "Util1": 42327207,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "BNKB",
+    "DealcodeFrom": "FNDA"
+}, {
+    "CreditPool": 0,
+    "Util1": 7059865,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNKB",
+    "DealcodeFrom": "FNDB"
+}, {
+    "CreditPool": 126,
+    "Util1": 45754167,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKB",
+    "DealcodeFrom": "FNDC"
+}, {
+    "CreditPool": 124,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNKB",
+    "DealcodeFrom": "FNDD"
+}, {
+    "CreditPool": 116,
+    "Util1": 7979172,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKC",
+    "DealcodeFrom": "BNKA"
+}, {
+    "CreditPool": 119,
+    "Util1": 47504289,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKC",
+    "DealcodeFrom": "BNKB"
+}, {
+    "CreditPool": 0,
+    "Util1": 55845869,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNKC",
+    "DealcodeFrom": "BNKC"
+}, {
+    "CreditPool": 125,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNKC",
+    "DealcodeFrom": "BNKD"
+}, {
+    "CreditPool": 116,
+    "Util1": 27445037,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKC",
+    "DealcodeFrom": "FNDA"
+}, {
+    "CreditPool": 119,
+    "Util1": 7808779,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKC",
+    "DealcodeFrom": "FNDB"
+}, {
+    "CreditPool": 0,
+    "Util1": 23497647,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNKC",
+    "DealcodeFrom": "FNDC"
+}, {
+    "CreditPool": 125,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNKC",
+    "DealcodeFrom": "FNDD"
+}, {
+    "CreditPool": 118,
+    "Util1": 3946283,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKD",
+    "DealcodeFrom": "BNKA"
+}, {
+    "CreditPool": 120,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNKD",
+    "DealcodeFrom": "BNKB"
+}, {
+    "CreditPool": 122,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNKD",
+    "DealcodeFrom": "BNKC"
+}, {
+    "CreditPool": 0,
+    "Util1": 33578627,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNKD",
+    "DealcodeFrom": "BNKD"
+}, {
+    "CreditPool": 118,
+    "Util1": 10344535,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "BNKD",
+    "DealcodeFrom": "FNDA"
+}, {
+    "CreditPool": 120,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNKD",
+    "DealcodeFrom": "FNDB"
+}, {
+    "CreditPool": 122,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "BNKD",
+    "DealcodeFrom": "FNDC"
+}, {
+    "CreditPool": 0,
+    "Util1": 53785480,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "BNKD",
+    "DealcodeFrom": "FNDD"
+}, {
+    "CreditPool": 0,
+    "Util1": 18791767,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FNDA",
+    "DealcodeFrom": "BNKA"
+}, {
+    "CreditPool": 117,
+    "Util1": 4522067,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDA",
+    "DealcodeFrom": "BNKB"
+}, {
+    "CreditPool": 121,
+    "Util1": 52168478,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDA",
+    "DealcodeFrom": "BNKC"
+}, {
+    "CreditPool": 123,
+    "Util1": 50502497,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDA",
+    "DealcodeFrom": "BNKD"
+}, {
+    "CreditPool": 0,
+    "Util1": 11034283,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FNDA",
+    "DealcodeFrom": "FNDA"
+}, {
+    "CreditPool": 117,
+    "Util1": 36069713,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDA",
+    "DealcodeFrom": "FNDB"
+}, {
+    "CreditPool": 121,
+    "Util1": 55044075,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDA",
+    "DealcodeFrom": "FNDC"
+}, {
+    "CreditPool": 123,
+    "Util1": 1210023,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDA",
+    "DealcodeFrom": "FNDD"
+}, {
+    "CreditPool": 131,
+    "Util1": 7593787,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDA",
+    "DealcodeFrom": "NABX"
+}, {
+    "CreditPool": 131,
+    "Util1": 13391757,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDA",
+    "DealcodeFrom": "SPRT"
+}, {
+    "CreditPool": 115,
+    "Util1": 30496628,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "FNDB",
+    "DealcodeFrom": "BNKA"
+}, {
+    "CreditPool": 0,
+    "Util1": 60897526,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FNDB",
+    "DealcodeFrom": "BNKB"
+}, {
+    "CreditPool": 126,
+    "Util1": 36972448,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDB",
+    "DealcodeFrom": "BNKC"
+}, {
+    "CreditPool": 124,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FNDB",
+    "DealcodeFrom": "BNKD"
+}, {
+    "CreditPool": 115,
+    "Util1": 37525291,
+    "WarnPct": 75,
+    "Limit1": 300000000,
+    "DealcodeTo": "FNDB",
+    "DealcodeFrom": "FNDA"
+}, {
+    "CreditPool": 0,
+    "Util1": 49037574,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FNDB",
+    "DealcodeFrom": "FNDB"
+}, {
+    "CreditPool": 126,
+    "Util1": 59467145,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDB",
+    "DealcodeFrom": "FNDC"
+}, {
+    "CreditPool": 124,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FNDB",
+    "DealcodeFrom": "FNDD"
+}, {
+    "CreditPool": 116,
+    "Util1": 49321768,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDC",
+    "DealcodeFrom": "BNKA"
+}, {
+    "CreditPool": 119,
+    "Util1": 19180225,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDC",
+    "DealcodeFrom": "BNKB"
+}, {
+    "CreditPool": 0,
+    "Util1": 44581217,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FNDC",
+    "DealcodeFrom": "BNKC"
+}, {
+    "CreditPool": 125,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FNDC",
+    "DealcodeFrom": "BNKD"
+}, {
+    "CreditPool": 116,
+    "Util1": 6171403,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDC",
+    "DealcodeFrom": "FNDA"
+}, {
+    "CreditPool": 119,
+    "Util1": 20501888,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDC",
+    "DealcodeFrom": "FNDB"
+}, {
+    "CreditPool": 0,
+    "Util1": 37392587,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FNDC",
+    "DealcodeFrom": "FNDC"
+}, {
+    "CreditPool": 125,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FNDC",
+    "DealcodeFrom": "FNDD"
+}, {
+    "CreditPool": 118,
+    "Util1": 59805509,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDD",
+    "DealcodeFrom": "BNKA"
+}, {
+    "CreditPool": 120,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FNDD",
+    "DealcodeFrom": "BNKB"
+}, {
+    "CreditPool": 122,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FNDD",
+    "DealcodeFrom": "BNKC"
+}, {
+    "CreditPool": 0,
+    "Util1": 21886714,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FNDD",
+    "DealcodeFrom": "BNKD"
+}, {
+    "CreditPool": 118,
+    "Util1": 19518835,
+    "WarnPct": 75,
+    "Limit1": 60000000,
+    "DealcodeTo": "FNDD",
+    "DealcodeFrom": "FNDA"
+}, {
+    "CreditPool": 120,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FNDD",
+    "DealcodeFrom": "FNDB"
+}, {
+    "CreditPool": 122,
+    "Util1": 0,
+    "WarnPct": 75,
+    "Limit1": 0,
+    "DealcodeTo": "FNDD",
+    "DealcodeFrom": "FNDC"
+}, {
+    "CreditPool": 0,
+    "Util1": 33566989,
+    "WarnPct": 75,
+    "Limit1": 66000000,
+    "DealcodeTo": "FNDD",
+    "DealcodeFrom": "FNDD"
+}]

@@ -304,3 +304,99 @@ button.submit:hover {
   background-color: #326891;
   border-color: #265e8b;
 }
+
+/* Begin Flexbox Credit Utilization Grid */
+.flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  background: #0a1c57;
+  font-size: 11px;
+  box-sizing: border-box;
+}
+.creditPoolItem {
+  padding: 1.4em;
+  flex: 0 1 15rem;
+  transition: .2s all;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  position: relative;
+}
+.creditPoolItem.toggle {
+  flex-basis: 20%;
+}
+.dealCode {
+  margin-top: -1.2em;
+  text-align: center;
+}
+.creditPoolId {
+  font-size: 15px;
+  padding: 1em 0;
+  text-align: center;
+  line-height: 24px;
+}
+.creditPoolId span.cPoolId {
+  font-size: 20px;
+}
+.Util-Limit {
+  line-height: 7px;
+  text-align: center;
+}
+.creditPoolItem .z-index2 {
+  z-index: 2;
+  position: relative;
+}
+.Util-Limit p:first-child{
+  border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+  padding-bottom: 7px;
+}
+.creditPoolItem span.bar {
+  position: absolute;
+  display: block;
+  background: rgba(255,255,255, .05);
+  width: 100%;
+  overflow: hidden;
+  bottom: 0;
+  left: 0;
+  border-top: 1px solid rgba(255,255,255,.05);
+  z-index: 1;
+}
+.creditPoolItem.normal{
+  /* background: rgba(255,255,255, .2 ); */
+}
+.creditPoolItem.warning span.bar{
+  animation: warn 1s ease-out;
+  background-color: rgba(163, 97, 0, .75);
+}
+.creditPoolItem.danger {
+  animation: danger 1s ease-out;
+  background: rgba(255, 0, 0, 0.33);
+}
+@keyframes norm {
+  0% {
+    background: rgba(255,255,255, .1 );
+  }
+  100% {
+    background: rgba(255,255,255, .05 );
+  }
+}
+@keyframes warn {
+  0% {
+    background: rgba(163, 97, 0, .75)
+  }
+  50% {
+    background: rgb(163, 97, 0);
+  }
+  100% {
+    background: rgba(163, 97, 0, .75);
+  }
+}
+@keyframes danger {
+  0% {
+    background: rgba(255, 0, 0, 0.49);
+  }
+  100% {
+    background: rgba(255, 0, 0, 0.33);
+  }
+}
